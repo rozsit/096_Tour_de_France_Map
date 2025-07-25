@@ -41,9 +41,9 @@ It uses Python, GeoPandas, Matplotlib, and Seaborn for data processing and advan
 
 ## Directory Structure
 
-├── data/
-│ └── TDF_Stages_with_coords.csv
-├── geo/
-│ └── ne_10m_admin_0_countries.shp
-├── requirements.txt
+├── data/  
+│ └── TDF_Stages_with_coords.csv  
+├── geo/  
+│ └── ne_10m_admin_0_countries.shp  
+├── requirements.txt  
 └── README.md
